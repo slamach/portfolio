@@ -1,7 +1,8 @@
-# Портфолио
-Релевантные для трудоустройства проекты, которые я выполнял :briefcase:
+# Portfolio
+Employment-relevant projects I've done :briefcase:  
+_Some of them may be in Russian!_
 
-- [Шаблоны для новых проектов](https://github.com/slamach/project-boilerplates) `Build Tools`
+- [Project boilerplates](https://github.com/slamach/project-boilerplates) `Build Tools`
 - [Трудовая оборона](https://oborona.media) `WordPress`
 - [Палиндром Форте](https://palindrome.media/forte) `WordPress`
 - [Village Carrier](https://github.com/slamach/village-carrier) `React`
